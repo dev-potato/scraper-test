@@ -1,0 +1,62 @@
+I am scraping http://onlyonceshop.com/!
+{ location: 'http://onlyonceshop.com/store/architect-table-lamp',
+  name: 'Architect table lamp',
+  description:
+   'Minimal German architecture design lamp ART 2020. Made of metal and aluminium in grey and white color. Allows multiple adjustments. With e27 socket, original white cable with German plug (220V). Comes with original vintage neon tube inside. Excellent original condition: partially renovated.' }
+{ location: 'http://onlyonceshop.com/store/siemens-schuckert-fan-4',
+  name: 'Siemens & Schuckert fan',
+  description:
+   'Beautiful vintage iconic dark red matt metal Siemens & Schuckert fan. Designed and manufactured in Germany in 1920s - 1930s. The metal housing is painted red and the iconic golden wire cage has the Siemens logo in the middle. The rotating is golden and made of metal. The industrial fan comes with original white cable and German plug (220V). The fan might be operated through a switch on the bottom of the fan from Low, Medium to High. Fan is functioning, but is mainly intended for decoration purposes. Excellent original condition with very little patina due to its age.' }
+{ location: 'http://onlyonceshop.com/store/napako-typ-1636',
+  name: 'Napako typ 1636',
+  description:
+   'Beautiful vintage Napako type 1636 metal desk lamp. Designed and manufactured in Czechoslovakia in 1970s. Original grey cable and switch with black German plug (220V). To be used with E27 light bulbs (not included). Excellent original condition. Partially renovated.' }
+{ location: 'http://onlyonceshop.com/store/green-table-lamp',
+  name: 'Green table lamp',
+  description:
+   'Vintage German table lamp. Materials used: green painted metal with details made of chrome, original cable German plug (220V). Excellent original condition (one minor aged spot). To be used with E27 light bulbs (not included).' }
+{ location: 'http://onlyonceshop.com/store/vintage-brain-school-poster',
+  name: 'Vintage brain school poster',
+  description:
+   'Beautiful vintage German DDR school education poster from 1950 - 1970s. The board shows the human brain in 4 detailed views including nerves and nerve cells. The poster is rolled on a wooden oval hanging piece with a metal hook on the bottom side. Comes in good condition - the paper has a slightly yellowish patina with few damages on the paper sides. The wooden stick it is hang on has a slightly rusty hook to hang. Published by „deutsches Hygiene Museum Dresden“' }
+{ location: 'http://onlyonceshop.com/store/marelli-f25-fan',
+  name: 'Marelli F25 fan',
+  description:
+   'Beautiful vintage metal fan made by Marelli. Manufactured in Italy in 1910s - 1930s.This design piece has a metal housing painted in original black color without cage. The fan is in beautiful polished silver metal. The industrial fan is intended for decoration purposes (without cable and working electronic). Good original condition with patina due to its age.' }
+{ location: 'http://onlyonceshop.com/store/sankyo-digital-clock-no-423',
+  name: 'Sankyo digital clock No.423',
+  description:
+   'Japanese vintage flip Clock SANKYO Digital No. 423 in green and black color. This retro alarm table clock has been designed and made in 1970s in Japan. With its rounded form, futuristic design and beautiful numbers it is truly a design classic. Material: Plastic housing and knob on left side to set time & alarm; original white cable & EU plug (220V). Original condition: partly renovated and polished. Functionality: clock & alarm working perfectly.' }
+{ location: 'http://onlyonceshop.com/store/pragotron-p-273',
+  name: 'Pragotron P 273',
+  description:
+   'Vintage Pragotron industrial interior wall clock made of bakelite.  The inner bakelite face is concave. The glass cover has been replaced with a straight glass. Designed and made in Czechoslovakia in 1970s. Converted to battery-powered clockwork, 1 x AA battery. Condition: Partially renovated.' }
+{ location: 'http://onlyonceshop.com/store/napako-0513-table-lamp',
+  name: 'Napako 0513 table lamp',
+  description:
+   'Beautiful original vintage table lamp designed by famous czech designer Josef Hurka and manufactured by Napako. Made in Czechoslovakia in 1950s. Materials used: orange painted metal with details made of chrome, new textile cable & German plug (220V). Excellent condition: Partly renovated original.' }
+{ location: 'http://onlyonceshop.com/store/brusel-table-lamp',
+  name: 'Brusel table lamp',
+  description:
+   'Beautiful small design table design lamp with adjustable light shade. Designed and manufactured in Czechoslovakia in 1960s (Brusel style). Materials used: red painted metal, chrome details & white cable with black EU plug (220V). Partly renovated. To be used with E40 light bulbs (not included)' }
+{ location: 'http://onlyonceshop.com/store/large-chronotechna-clock-2',
+  name: 'Large Chronotechna clock',
+  description:
+   'Large vintage metal clock Chronotechna. Designed and made in Czechoslovakia in 1950s. The clock is round, made of metal, covered with glass. Converted to operate as an independent wall clock with grey textile cable & german plug for 220V. Excellent condition: Partially renovated original.' }
+{ location: 'http://onlyonceshop.com/store/orange-70s-table-lamp',
+  name: 'Orange 70s table lamp',
+  description:
+   'Vintage original orange table lamp from Germany made in 1970s. Made of painted metal body combined with plastic. The lamp is flexible and adjustable. New grey cable with bakelite-immitating German plug (220V). Excellent condition. To be used with E27 light bulbs (not included).' }
+{ location: 'http://onlyonceshop.com/store/pragotron-c-301',
+  name: 'Pragotron C 301',
+  description:
+   'Vintage industrial interior wall clock with square grey metal frame, covered with glass. Designed and made in Czechoslovakia in 1970s. Converted to battery-powered clockwork, 1 x AA battery. Condition: Partially renovated. Clock is lightly scratched in several places.' }
+{ location: 'http://onlyonceshop.com/store/neufeldt-kuhnke-headphones',
+  name: 'Neufeldt & Kuhnke headphones',
+  description:
+   'Beautiful very rare vintage 2000 Ohm headphones by Neufeldt & Kuhnke, Kiel Germany made around 1910.   Height is adjustable and top is covered with leather. Original textile cable with bakelite plug formelry used in telephone central offices. Original polished and cleaned condition – to be used as decoration only.' }
+{ location:
+   'http://onlyonceshop.com/store/industrial-pendant-light-typ-7010',
+  name: 'Industrial pendant light Typ 7010',
+  description:
+   'Original Elektrosvit Industrial pendant light from a former Czechoslovakian factory. Substantial two part aluminum lamp enclosure, manufactures plaques, glass cylinder to protect bulb & new grey textile cable. To be used with E27 (220V) light bulbs (not included). Excellent original condition. Partially renovated.' }
